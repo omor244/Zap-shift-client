@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Cash On Delivery",
+        "subtitle": "From personal packages to business shipments — we deliver on time, every time.",
+        "icon": "truck"
+    },
+    {
+        "title": "Fast Delivery",
+        "subtitle": "Get your items delivered quickly with our priority express service.",
+        "icon": "clock"
+    },
+    {
+        "title": "Secure Packaging",
+        "subtitle": "We ensure your parcels are safely packed and protected during transit.",
+        "icon": "shield"
+    },
+    {
+        "title": "Nationwide Coverage",
+        "subtitle": "Our delivery network covers major cities and rural areas across the country.",
+        "icon": "map"
+    }
+]
